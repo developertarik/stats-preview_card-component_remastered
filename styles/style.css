@@ -57,8 +57,10 @@ gap:10px;
 }
 .container-bottom-paragraph{
     color:hsla(0, 0%, 100%, 0.6);
-    font-family: "Inter",sans-serif;
+    font-weight: 400;
+    font-family: "Lexend Deca",sans-serif;
     font-size: large;
+    
    
 }
 
